@@ -1,0 +1,20 @@
+{
+  "name": "cache-action-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node build/index.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.17.4",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
